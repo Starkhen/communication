@@ -37,7 +37,7 @@ void add(book *textbook) {
 	}
 	else
 	{
-		//name
+		//name   
 		string name;
 		cout << "Please type the name:" << endl;
 		cin >> name;
